@@ -12,3 +12,4 @@ def printFibo(n):
     for val in Fibo:
         print(val,end=' ') 
 printFibo(7)
+# akash sucks
